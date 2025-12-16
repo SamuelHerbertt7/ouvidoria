@@ -73,5 +73,5 @@ Projeto desenvolvido com **finalidade acadêmica e educacional**, voltado para p
 
 ---
 
-👨‍💻 Desenvolvido por
+👨‍💻 Desenvolvido por Samuel H.
 
